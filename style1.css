@@ -29,9 +29,9 @@ div .facebook2:hover
 {
     box-shadow: 0 0 20px 5px hsl(215, 100%, 57%);
 }
-div .telegram3:hover
+div .tdmlogo:hover
 {
-    box-shadow: 0 0 20px 5px hsl(215, 100%, 57%);
+    box-shadow: 0 0 20px 5px hsl(210, 6%, 81%);
 }
 div .insta:hover
 {
@@ -53,9 +53,9 @@ div .tiktok2:hover
 {
     color: hsl(215, 100%, 57%);
 }
-.Telegram
+.tdmlogo
 {
-    color: hsl(200, 100%, 50%);
+    color: hsl(200, 38%, 85%);
 
 }
 .whatsapp1
