@@ -67,10 +67,13 @@ div .tiktok2:hover
     color: hsl(358, 99%, 50%);
 }
 
+.tdmlogo2
+{
+    color: hsl(0, 0%, 100%);
+}
 
 div h2
 {
-    color: hsl(281, 61%, 63%) ;
     text-align: center;
     
 }
@@ -82,15 +85,6 @@ a
 }
 
 
-button
-{
-    background-color: hsl(142, 70%, 49%);
-
-    border-radius: 20px;
-    padding: 10px;
-    transition: box-shadow 0.3 ease;
-
-}
 
 @media (min-width: 768px) {
   body {
